@@ -18,3 +18,6 @@ Here are some ideas to get you started:
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospepato&layout=compact&langs_count=7&theme=holi"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlospepato&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
 </div>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
