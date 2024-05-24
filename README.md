@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlospepato&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
 </div>
 <div>
-  <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="120em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
