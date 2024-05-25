@@ -2,9 +2,9 @@
  <h1 align="center">Hi, I'm Carlos 🦆</h1>
 </div>
 <span>I'm a </span>
-<div>
+
  ![Snake animation](https://github.com/carlospepato/carlospepato/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 <h2>How you can reach me out:</h2>
 <div>
     <a href="https://instagram.com/belber_k" target="_blank">
