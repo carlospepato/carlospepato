@@ -2,7 +2,7 @@
  <h1 align="center">Hi, I'm Carlos 🦆</h1>
 </div>
 
-## How you can reach me out:
+<h2>How you can reach me out:</h2>
 <div>
     <a href="https://instagram.com/belber_k" target="_blank">
         <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -15,7 +15,7 @@
     </a>   
 </div>
 
-# Overview
+<h2>Overview</h2>
 <div align="center">
     <a href="https://github.com/carlospepato">
     <img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospepato&layout=donut&langs_count=5&theme=dark"/>
