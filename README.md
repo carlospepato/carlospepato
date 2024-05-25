@@ -1,9 +1,7 @@
 <div>
  <h1 align="center">Hi, I'm Carlos 🦆</h1>
 </div>
-<span>I'm a </span>
-
- ![Snake animation](https://github.com/carlospepato/carlospepato/blob/output/github-contribution-grid-snake.svg)
+<span>I am an electrical engineer who fell in love with programming and now work as a fullstack developer.</span>
 
 <h2>How you can reach me out:</h2>
 <div>
