@@ -24,7 +24,7 @@
     <img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospepato&layout=donut&langs_count=5&theme=dark"/>
 </div>
 <h2>💻 Stacks Utilizadas:</h2>
-<div align="center" style="gap:5em">
+<div align="center" style="display:block;">
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
