@@ -20,10 +20,7 @@
     <a href="https://github.com/carlospepato">
     <img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospepato&layout=donut&langs_count=5&theme=dark"/>
 </div>
-<div  style="display:inline_block;">
- 💻
- # Stacks Utilizadas:
-</div>
+<h2>💻 Stacks Utilizadas:</h2>
 <div align="center">
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
