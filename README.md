@@ -1,7 +1,7 @@
 <div>
  <h1 align="center">Hi, I'm Carlos 🦆</h1>
 </div>
-
+<span>I'm a </span>
 <h2>How you can reach me out:</h2>
 <div>
     <a href="https://instagram.com/belber_k" target="_blank">
@@ -22,9 +22,10 @@
 </div>
 <h2>💻 Stacks Utilizadas:</h2>
 <div align="center">
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
