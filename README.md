@@ -3,7 +3,7 @@
 </div>
 <span>I'm a </span>
 <div>
- ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/carlospepato/carlospepato/blob/output/github-contribution-grid-snake.svg)
 </div>
 <h2>How you can reach me out:</h2>
 <div>
