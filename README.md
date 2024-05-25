@@ -1,7 +1,7 @@
 <div>
  <h1 align="center">Hi, I'm Carlos 🦆</h1>
 </div>
-<span>I am an electrical engineer who fell in love with programming and now work as a fullstack developer.</span>
+<span  align="center">I am an electrical engineer who fell in love with programming and now work as a fullstack developer.</span>
 
 <h2>How you can reach me out:</h2>
 <div>
