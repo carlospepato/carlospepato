@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 # Overview
 <div>
  <a href="https://github.com/carlospepato">
- <img loading="lazy" height="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospepato&layout=donut&langs_count=5&theme=dark"/>
+ <img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospepato&layout=donut&langs_count=5&theme=dark"/>
 </div>
 <div>
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
