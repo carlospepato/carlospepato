@@ -1,5 +1,5 @@
 <div>
- <h1 align="center" styles="color:#000">Hi, I'm Carlos 🦆</h1>
+ <h1 align="center" style="color:red;">Hi, I'm Carlos 🦆</h1>
 </div>
 
 ## How you can reach me out:
