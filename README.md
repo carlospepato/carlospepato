@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 # Overview
 <div>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlospepato&layout=donut)](https://github.com/anuraghazra/github-readme-stats
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlospepato&show_icons=true)
 </div>
 <div>
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
