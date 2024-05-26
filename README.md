@@ -24,14 +24,14 @@
     <img loading="lazy" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlospepato&layout=donut&langs_count=5&theme=dark"/>
 </div>
 <h2>💻 Stacks Used:</h2>
-<div>
+<!--<div>
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+</div>--!>
 
 <p align="center">
   <a href="https://skillicons.dev">
