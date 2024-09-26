@@ -1,13 +1,13 @@
 ### <div align="center">Hi 👋, I'm Carlos 🦆</div>  
 
-💻 I am a Front-End developer passionate about technology and always seeking to learn.  
+💻 I am a Fullstack developer passionate about technology and always seeking to learn.  
 
 
 ## My Skill Set  
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,angular,nodejs,py,flask,docker,git,figma,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,py,flask,docker,git,figma,prisma" />
   </a>
 </p>
 
